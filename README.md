@@ -1,5 +1,5 @@
 # Civilization250
-## Kevin & Lucas
+### Kevin & Lucas
 
 *Smrategy Game*
 
