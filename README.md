@@ -1,3 +1,4 @@
 # Civilization250
+### Kevin & Lucas
 
-Strategy Game
+*Smrategy game*
